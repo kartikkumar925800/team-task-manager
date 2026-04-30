@@ -7,10 +7,13 @@ from routers import auth
 models.Base.metadata.create_all(bind=engine)
 
 app = FastAPI(title="Team Task Manager API")
-
+origins = [
+    "http://localhost:3000",
+    "https://rare-courtesy-production-73ef.up.railway.app" # Use your exact frontend URL
+]
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=origins,
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
