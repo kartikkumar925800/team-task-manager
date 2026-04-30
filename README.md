@@ -21,7 +21,7 @@ To properly evaluate the Role-Based Access Control (RBAC), please follow this te
 ### 1. The Manager Flow (Admin)
 **Credentials:**
 * Email: `admin@test.com`
-* Password: `securepassword123`
+* Password: `dummy123`
 
 **Actions to test:**
 Log in with these credentials. You have full system clearance. Navigate to the Projects tab to create a new project. Inside that project, you can create new tasks and assign them to specific team members. 
