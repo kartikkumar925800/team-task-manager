@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/b23cedca-7d1b-44f8-8670-78e9441d27cd
+
 # Enterprise Team Task Manager
 
 A full-stack, role-based task management system designed to mirror enterprise workflows. Built to demonstrate secure authentication, relational database management, and dynamic frontend state.
@@ -9,6 +13,8 @@ A full-stack, role-based task management system designed to mirror enterprise wo
 * **Security:** Stateless JWT Authentication, Bcrypt password hashing, strict Role-Based Access Control (RBAC).
 
 ## Live Demo & Testing Instructions
+
+
 
 To properly evaluate the Role-Based Access Control (RBAC), please follow this testing flow using the provided credentials.
 
