@@ -6,6 +6,8 @@ https://github.com/user-attachments/assets/b23cedca-7d1b-44f8-8670-78e9441d27cd
 
 A full-stack, role-based task management system designed to mirror enterprise workflows. Built to demonstrate secure authentication, relational database management, and dynamic frontend state.
 
+#Live project link: https://rare-courtesy-production-73ef.up.railway.app/
+
 ## The Architecture
 * **Frontend:** Next.js, Tailwind CSS, Context API for global state.
 * **Backend:** FastAPI, Pydantic, SQLAlchemy.
